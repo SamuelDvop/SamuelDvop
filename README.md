@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Samuel</h1>
+<h3 align="center">Estudiante de programación | Aprendiendo cada día 🚀</h3>
 
-<!--
-**SamuelDvop/SamuelDvop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamuelDvop&color=blue&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que uso
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🌱 Actualmente aprendiendo
+
+- Desarrollo backend con **Python** y **Java**
+- Creación de aplicaciones web con **PHP**, **HTML** y **CSS**
+- Bases de datos con **SQL**
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelDvop&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDvop&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ ¡Gracias por visitar mi perfil!
+</p>
