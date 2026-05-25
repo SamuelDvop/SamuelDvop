@@ -1,5 +1,5 @@
 <h1 align="center"> Hola, soy Samuel</h1>
-<h3 align="center">Estudiante de programación | Aprendiendo cada día 🚀</h3>
+<h3 align="center">Estudiante de programación | Aprendiendo cada día </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamuelDvop&color=blue&style=flat" alt="Profile views" />
